@@ -1,7 +1,8 @@
 {
   "name": "developer",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node src/main.js",
     "start:dev": "nodemon src/main.js"
